@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: "julee";
+    background: linear-gradient(165deg, #39B5E0, #F3CCFF);
+    color: white;
+    text-align: center;
+  
+  }
+  
+  h1 {
+    font-weight: 800px;
+    font-size: 40px;
+    letter-spacing: 3px;
+    padding-top: 30px;
+  }
+  
+  p {
+    font-size: 40px;
+  }
+  
+  input {
+    padding: 6px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .add {
+    margin-bottom: 10px;
+    color: #A31ACB;
+  }
+  
+  .btn-1, .btn-2, .btn-3{
+    background: #A31ACB;
+    padding: 6px 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px;
+    color: white;
+  }
+  
+  .btn-2 {
+    background: #CB1C8D;
+  }
+  
+  .btn-3{
+    background: #332C39;
+    margin-top: 7px;
+  }
